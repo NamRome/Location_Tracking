@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">demomap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_action_setting">Setting</string>
+    <string name="menu_action_Refresh">Refresh</string>
+    <string name="menu_action_Setting">Setting</string>
+    <string-array name="arrType">
+        <item>NORMAL</item>
+        <item>SATELLITE</item>
+        <item>TERRAIN</item>
+        <item>HYBRID</item>
+        <item>NONE</item>
+    </string-array>
+    <string-array name="node">
+        <item>ALL</item>
+        <item>NODE 1</item>
+        <item>NODE 2</item>
+    </string-array>
+</resources>
